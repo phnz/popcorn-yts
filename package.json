@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "private": true,
   "description": "YTS.re Source Provider",
-  "repository": "",
+  "repository": "https://github.com/phnz/popcorn-yts",
   "license": "GPL v3",
   "engines": {
     "popcorntime": ">=0.4.0"
