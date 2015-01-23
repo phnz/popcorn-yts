@@ -1,7 +1,7 @@
 {
   "name": "YTS",
   "main": "./lib/yts",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "private": true,
   "description": "YTS.re Source Provider",
   "repository": "https://github.com/phnz/popcorn-yts",
