@@ -1,0 +1,21 @@
+{
+  "name": "YTS",
+  "main": "./lib/yts",
+  "version": "0.0.1",
+  "private": true,
+  "description": "YTS.re Source Provider",
+  "repository": "",
+  "license": "GPL v3",
+  "engines": {
+    "popcorntime": ">=0.4.0"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "pdk": "^0.0.1",
+    "querystring": "^0.2.0"
+  },
+  "packageDependencies": {
+    "trakttv": "*",
+    "ysubs": "*"
+  }
+}
